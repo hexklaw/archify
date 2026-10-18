@@ -1,0 +1,12 @@
+{
+  "$schema": "https://antigravity.google/schemas/v1/plugin.json",
+  "name": "archify",
+  "version": "3.1.0",
+  "description": "Create validated architecture, workflow, sequence, data-flow, lifecycle/state, entity-relationship, class/interface, tree, timeline, and execution waterfall diagrams as explorable standalone HTML.",
+  "author": {
+    "name": "tt-a1i"
+  },
+  "homepage": "https://archify.si",
+  "repository": "https://github.com/hexklaw/archify",
+  "license": "MIT"
+}
